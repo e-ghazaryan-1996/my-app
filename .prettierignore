@@ -1,0 +1,18 @@
+# Build files
+node_modules
+dist
+build
+ios
+android
+
+# Config files that might have special formatting requirements
+.eslintrc.js
+babel.config.js
+metro.config.js
+jest.config.js
+app.json
+
+# Other files to ignore
+*.log
+.DS_Store
+coverage
